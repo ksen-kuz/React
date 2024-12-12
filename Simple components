@@ -1,0 +1,12 @@
+import React from "react";
+
+function App() {
+  return (
+    <div style={{ textAlign: "center", marginTop: "50px" }}>
+      <h1>Привіт, React!</h1>
+      <p>Це простий додаток на React.</p>
+    </div>
+  );
+}
+
+export default App;
